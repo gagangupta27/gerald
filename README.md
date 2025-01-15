@@ -6,9 +6,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 You can view a demonstration of the app in action by watching the following video:
 
-[![Watch the video](https://github.com/gagangupta27/gerald/blob/main/assets/Recording.mp4)](Recording.mp4)
+[![Watch the video](https://github.com/user-attachments/assets/665898a0-8795-44d3-b015-5cff9f277f23)]
 
 ## Get started
+
+
 
 1. Install dependencies
 
