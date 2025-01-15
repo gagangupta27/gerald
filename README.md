@@ -6,7 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 You can view a demonstration of the app in action by watching the following video:
 
-[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](Recording.mp4)
+[![Watch the video](https://github.com/gagangupta27/gerald/blob/main/assets/Recording.mp4)](Recording.mp4)
 
 ## Get started
 
